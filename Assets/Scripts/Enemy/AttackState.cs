@@ -6,7 +6,7 @@ using UnityEngine;
 public class AttackState : State
 {
     [SerializeField] private int _damage;
-    [SerializeField] private int _delay;
+    [SerializeField] private float _delay;
 
     private float _lastAttackTime;
     private Animator _animator;

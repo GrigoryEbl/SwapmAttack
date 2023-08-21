@@ -1,0 +1,543 @@
+fileFormatVersion: 2
+guid: 994ba6b32bd68de40bf95bc060a9dafd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NinjaEnemy_0
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 590
+        width: 71
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ba38b90b0f0cf4482a2a6d23fd6ed6
+      internalID: -773524917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaEnemy_1
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 590
+        width: 74
+        height: 75
+      alignment: 9
+      pivot: {x: 0.49580672, y: 0.0034025065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4029e59cc53caf44b8dfccba46f5744b
+      internalID: 1107947523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaEnemy_2
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 578
+        width: 75
+        height: 96
+      alignment: 9
+      pivot: {x: 0.50000083, y: 0.008575439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec4c56ecc745614ba7f6ec3eff608c3
+      internalID: -1358306475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaEnemy_3
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 587
+        width: 74
+        height: 78
+      alignment: 9
+      pivot: {x: 0.49597827, y: 0.0038819925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eeeba9b09ff4ba479dc11ef8ee0eec3
+      internalID: -1305314018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaEnemy_4
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 463
+        width: 84
+        height: 78
+      alignment: 9
+      pivot: {x: 0.65897626, y: 0.03379274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd40253315f4b774b9674007c1780857
+      internalID: -1204169327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaEnemy_5
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 463
+        width: 68
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5699364, y: 0.038281173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2206a9fcb82fa94baf43ee9ee4d056f
+      internalID: -1099980862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaEnemy_6
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 463
+        width: 91
+        height: 78
+      alignment: 9
+      pivot: {x: 0.42816365, y: 0.03904724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746029b0a0c94d64893e92ebf8257fb2
+      internalID: -1816435698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaEnemy_7
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 462
+        width: 74
+        height: 79
+      alignment: 9
+      pivot: {x: 0.43025827, y: 0.055770293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9fbdbbda8739c44b0c5ff3b78e8781
+      internalID: -5461040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaEnemy_8
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 360
+        width: 75
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06392792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c67361467a743647b5dedd6b13dc2b4
+      internalID: 2047279667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaEnemy_9
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 363
+        width: 87
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5217503, y: 0.055242684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c25bc873b7d524ea2639cdf4952917
+      internalID: -76010665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaEnemy_10
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 363
+        width: 81
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5233614, y: 0.055242684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0f8ceeb112dff40885ae0a4b14ea3b
+      internalID: 1092748967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaEnemy_11
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 360
+        width: 59
+        height: 78
+      alignment: 9
+      pivot: {x: 0.48930955, y: 0.0552419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b893d136a107044bec07f90b2bda03
+      internalID: -1276202731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaEnemy_12
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 360
+        width: 63
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027d56535d6e0dd418f81d019f619cf5
+      internalID: 652585673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaEnemy_13
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 360
+        width: 65
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5194073, y: 0.032779645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d2eeccc3ddcfe459569a258290a7d8
+      internalID: 1885007017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaEnemy_14
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 363
+        width: 80
+        height: 78
+      alignment: 9
+      pivot: {x: 0.4921158, y: 0.047155917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0207964e7e9c1e4e82fc901a42e7d75
+      internalID: -1723752995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaEnemy_15
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 252
+        width: 93
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c0b001c2a6e5d459a3545b0b370145
+      internalID: -21549587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaEnemy_16
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 252
+        width: 87
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d560db31a477846989d94cd8949b1e
+      internalID: 622576581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaEnemy_17
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 237
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e483c120bf8af824b85c1d6e74376a71
+      internalID: -387275907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NinjaEnemy_6: -1816435698
+      NinjaEnemy_8: 2047279667
+      NinjaEnemy_12: 652585673
+      NinjaEnemy_4: -1204169327
+      NinjaEnemy_13: 1885007017
+      NinjaEnemy_14: -1723752995
+      NinjaEnemy_5: -1099980862
+      NinjaEnemy_7: -5461040
+      NinjaEnemy_11: -1276202731
+      NinjaEnemy_15: -21549587
+      NinjaEnemy_2: -1358306475
+      NinjaEnemy_10: 1092748967
+      NinjaEnemy_16: 622576581
+      NinjaEnemy_1: 1107947523
+      NinjaEnemy_17: -387275907
+      NinjaEnemy_0: -773524917
+      NinjaEnemy_3: -1305314018
+      NinjaEnemy_9: -76010665
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
