@@ -5744,6 +5744,9 @@ MonoBehaviour:
   - Template: {fileID: 3025952230383673385, guid: f32893879b6e1a645a88176631e5da6a, type: 3}
     Delay: 0.8
     Count: 5
+  - Template: {fileID: 3025952230383673385, guid: f32893879b6e1a645a88176631e5da6a, type: 3}
+    Delay: 0.8
+    Count: 10
   _spawnPoint: {fileID: 1759453727}
   _player: {fileID: 733350960}
 --- !u!4 &1759453727
